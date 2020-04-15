@@ -1,1 +1,1 @@
-# scheduling
+### This Python Notebook demonstrates a basic Scheduling Algorithm, given a CSV with a list of schedules.
